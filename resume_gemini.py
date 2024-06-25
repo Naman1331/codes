@@ -3,7 +3,7 @@ import json
 from docx import Document
 import PyPDF2
 
-genai.configure(api_key="AIzaSyCjAgp-L_bmujjt1NulwnLbt4Xk9TUslnc")
+genai.configure(api_key="")
 
 
 def read_resume(file_path):
